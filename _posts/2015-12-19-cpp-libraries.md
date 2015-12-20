@@ -3,7 +3,7 @@ title: C++ libraries for robotics projects
 updated: 2015-09-06 15:56
 ---
 
-Working on a robotics project means facing challenges in the software development part of the project, challenges that can be tackled effortless if you use the right tools for the right job. Some C++ libraries that I have used (and some that I haven't) are listed here, in order to be able to decide which library is the right one to use as your project's base.
+Working on a robotics project means facing software-oriented challenges, challenges that can be tackled effortless if you use the right tools for the right job. Some C++ libraries that I have used (and some that I haven't) are listed here, in order to be able to decide which library is the right one to use as your project's base.
 
 * **[ROS](http://www.ros.org)**: is not exactly a library, is rather a component framework that works as a communication layer between these components. It provides functionalities for the integration of multiple systems. For instance, if you have a project with an arm, a gripper and a RGBD camera you can use ROS for the communication of these systems. You can have a node that controls the arm, a node that controls the gripper, a node that controls the camera, a node for running motion planning algorithms and asks for the poses of the objects from the node of the camera, etc...
 
