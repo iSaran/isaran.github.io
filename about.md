@@ -11,11 +11,10 @@ Currently I work as a researcher in Robotics, while pursuing my PhD in the same
 department.
 
 My research interests lie in non-linear systems, control algorithms, real time
-embedded systems, software engineering, reinforcement learning and its
-applications in robotics and particularly in object grasping and manipulation
-by robotic fingers.
+embedded systems, software engineering, reinforcement learning and their
+intersection on applications in robotic grasping and manipulation.
 
-If you want to contact me, please do so here:
+If you want to contact me, please do so:
 
 [![Email](assets/email.png)](mailto:iason@sarantop.com)
 
